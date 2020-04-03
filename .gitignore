@@ -1,0 +1,11 @@
+
+.vs/CatCoder/DesignTimeBuild/.dtbcache
+*.lock
+.vs/CatCoder/v15/.suo
+*.ide
+*.ide-wal
+*.ide-shm
+.vs/*
+*.exe
+bin/Debug/*
+obj/Debug/*
